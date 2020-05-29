@@ -1571,21 +1571,12 @@ ul.social-buttons li a:active {
     background-color: #3f729b;
 }
 
-#codepen:hover {
-    background-color: #fff;
-    color: #000;
-}
-
 #linkedin:hover {
     background-color: #0077B5
 }
 
 #github:hover {
     background-color: #4183C4;
-}
-
-#pinterest:hover {
-    background-color: #CC2127;
 }
 
 #spotify:hover {
